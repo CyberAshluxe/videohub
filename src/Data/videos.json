@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "title": "Mountain Sunrise Timelapse",
+    "description": "Experience the breathtaking beauty of a mountain sunrise captured in stunning 4K resolution. Watch as the first rays of light paint the peaks in golden hues.",
+    "thumbnail": "/thumbnails/1.jpg",
+    "duration": "3:45",
+    "genre": "Nature",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+  },
+  {
+    "id": "2",
+    "title": "Urban Night Drive",
+    "description": "A mesmerizing journey through neon-lit city streets at night. Feel the pulse of the urban landscape as we cruise through downtown.",
+    "thumbnail": "/thumbnails/2.jpg",
+    "duration": "5:20",
+    "genre": "Urban",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+  },
+  {
+    "id": "3",
+    "title": "Ocean Waves Meditation",
+    "description": "Relax and unwind with the soothing sounds of ocean waves. Perfect for meditation, sleep, or background ambiance.",
+    "thumbnail": "/thumbnails/3.jpg",
+    "duration": "10:00",
+    "genre": "Nature",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+  },
+  {
+    "id": "4",
+    "title": "Coffee Making Tutorial",
+    "description": "Learn the art of making the perfect cup of coffee. From bean selection to brewing techniques, master the craft.",
+    "thumbnail": "/thumbnails/4.jpg",
+    "duration": "7:15",
+    "genre": "Tutorial",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+  },
+  {
+    "id": "5",
+    "title": "Abstract Art Animation",
+    "description": "A hypnotic journey through abstract shapes and colors. Let your imagination run wild with this artistic exploration.",
+    "thumbnail": "/thumbnails/5.jpg",
+    "duration": "4:30",
+    "genre": "Art",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+  },
+  {
+    "id": "6",
+    "title": "Wildlife Safari Adventure",
+    "description": "Join us on an incredible safari adventure through the African savanna. Witness majestic animals in their natural habitat.",
+    "thumbnail": "/thumbnails/6.jpg",
+    "duration": "8:45",
+    "genre": "Nature",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+  },
+  {
+    "id": "7",
+    "title": "Cooking Masterclass",
+    "description": "Elevate your cooking skills with this comprehensive masterclass. Learn professional techniques from expert chefs.",
+    "thumbnail": "/thumbnails/7.jpg",
+    "duration": "12:30",
+    "genre": "Tutorial",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4"
+  },
+  {
+    "id": "8",
+    "title": "Space Exploration Documentary",
+    "description": "Explore the mysteries of the cosmos in this fascinating documentary about space exploration and discovery.",
+    "thumbnail": "/thumbnails/8.jpg",
+    "duration": "15:00",
+    "genre": "Documentary",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+  },
+  {
+    "id": "9",
+    "title": "Yoga Flow Practice",
+    "description": "A complete yoga flow sequence designed for all levels. Improve flexibility, strength, and mindfulness.",
+    "thumbnail": "/thumbnails/9.jpg",
+    "duration": "6:20",
+    "genre": "Fitness",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4"
+  },
+  {
+    "id": "10",
+    "title": "City Architecture Tour",
+    "description": "Discover stunning architectural marvels from around the world. A visual feast for design enthusiasts.",
+    "thumbnail": "/thumbnails/10.jpg",
+    "duration": "9:10",
+    "genre": "Urban",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4"
+  },
+  {
+    "id": "11",
+    "title": "Guitar Lesson Basics",
+    "description": "Start your musical journey with this beginner-friendly guitar lesson. Learn chords, strumming, and more.",
+    "thumbnail": "/thumbnails/11.jpg",
+    "duration": "11:25",
+    "genre": "Tutorial",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4"
+  },
+  {
+    "id": "12",
+    "title": "Northern Lights Spectacle",
+    "description": "Witness the magical aurora borealis dancing across the Arctic sky in this breathtaking footage.",
+    "thumbnail": "/thumbnails/12.jpg",
+    "duration": "5:55",
+    "genre": "Nature",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  }
+]
