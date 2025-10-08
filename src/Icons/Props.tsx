@@ -14,7 +14,6 @@ export const ArrowLeft: React.FC<any> = (props) => (
       strokeLinecap="round"
       strokeLinejoin="round"
     />
-    
   </svg>
 );
 
